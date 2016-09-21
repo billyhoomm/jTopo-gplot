@@ -1,0 +1,769 @@
+[
+  {
+    "elementType": "node",
+    "x": 48.08812949640287,
+    "y": 27.014388489208628,
+    "id": 1299.0714119351996,
+    "Image": "cloud.png",
+    "text": "CERNET",
+    "textPosition": "Middle_Center",
+    "larm": "undefined",
+    "level": 1
+  },
+  {
+    "elementType": "node",
+    "x": 287.5413669064748,
+    "y": 24.848920863309345,
+    "id": 7145.09267118679,
+    "Image": "cloud.png",
+    "text": "chinaet",
+    "textPosition": "Middle_Center",
+    "larm": "undefined",
+    "level": 6
+  },
+  {
+    "elementType": "node",
+    "x": 199.00899280575544,
+    "y": 140.55035971223018,
+    "id": 27970.785524817555,
+    "Image": "8000.png",
+    "text": "Cabletron8000",
+    "textPosition": "Middle_Left",
+    "larm": "undefined",
+    "level": 2
+  },
+  {
+    "elementType": "node",
+    "x": 306.92625899280574,
+    "y": 153.57913669064746,
+    "id": 47137.46988380518,
+    "Image": "ER16.png",
+    "text": "凯创ER16",
+    "textPosition": "Middle_Left",
+    "larm": "undefined",
+    "level": 3
+  },
+  {
+    "elementType": "node",
+    "x": 1249.863309352518,
+    "y": 174.1205035971223,
+    "id": 217626.8288520263,
+    "Image": "ER16.png",
+    "text": "凯创ER16",
+    "textPosition": "Middle_Left",
+    "larm": "undefined",
+    "level": 3
+  },
+  {
+    "elementType": "node",
+    "x": 53.36989113744974,
+    "y": 240.78064023601263,
+    "id": 12850.436557401445,
+    "Image": "ER16.png",
+    "text": "联想5950",
+    "textPosition": "Middle_Left",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 302.9406474820144,
+    "y": 249.22841726618697,
+    "id": 75501.41809753634,
+    "Image": "5200.png",
+    "text": "HUAWEI5200A",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 512.3075539568346,
+    "y": 246.6402877697842,
+    "id": 126355.68253454793,
+    "Image": "中间.png",
+    "text": "",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 3
+  },
+  {
+    "elementType": "node",
+    "x": 996.111510791367,
+    "y": 263.2410071942446,
+    "id": 262217.3973785001,
+    "Image": "ER16.png",
+    "text": "ENTERASYSES科技楼",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 1170.2553956834533,
+    "y": 271.36870503597123,
+    "id": 317570.69128797686,
+    "Image": "ER16.png",
+    "text": "凯创N7教1楼",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 1308.8345323741007,
+    "y": 272.74460431654677,
+    "id": 356977.5566482066,
+    "Image": "ER16.png",
+    "text": "凯创N7教2楼",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 1434.7517985611512,
+    "y": 279.91007194244605,
+    "id": 401601.4791548057,
+    "Image": "ER16.png",
+    "text": "凯创N7教3楼",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 1550.3309352517986,
+    "y": 284.158273381295,
+    "id": 440539.3617307593,
+    "Image": "ER16.png",
+    "text": "凯创N7教4楼",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 1759.3758992805756,
+    "y": 305.48920863309354,
+    "id": 537470.3511593604,
+    "Image": "2948.png",
+    "text": "VH2402仙林网络中心",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": 1907.5863309352517,
+    "y": 289.8273381294964,
+    "id": 552870.6685471766,
+    "Image": "ER16.png",
+    "text": "凯创N7教5楼",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 4
+  },
+  {
+    "elementType": "node",
+    "x": -5.473021582733807,
+    "y": 340.38390007418525,
+    "id": -1862.9284315211235,
+    "Image": "serve.png",
+    "text": "EMC存储",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 110.77102634439211,
+    "y": 366.6554828079982,
+    "id": 40614.80414544058,
+    "Image": "2948.png",
+    "text": "VH4802",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 275.1798561151079,
+    "y": 522.7104316546763,
+    "id": 143839.38137259978,
+    "Image": "cloud.png",
+    "text": "学生宿舍",
+    "textPosition": "Middle_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 372.7823741007194,
+    "y": 397.115107913669,
+    "id": 148037.51271932092,
+    "Image": "2948.png",
+    "text": "CISCO2948",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 448.6924460431653,
+    "y": 398.2428057553957,
+    "id": 178688.53863348166,
+    "Image": "2948.png",
+    "text": "教学主楼CISCO2960",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 526.4370503597122,
+    "y": 397.70143884892093,
+    "id": 209364.7723914394,
+    "Image": "2948.png",
+    "text": "无线楼VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 603.181654676259,
+    "y": 395.6187050359714,
+    "id": 238629.94512447607,
+    "Image": "2948.png",
+    "text": "有线楼CISCO3542",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 673.3021582733815,
+    "y": 394.6187050359713,
+    "id": 265697.62579576636,
+    "Image": "2948.png",
+    "text": "图书馆CISCO2948",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 750.046762589928,
+    "y": 395.53597122302165,
+    "id": 296670.4747036903,
+    "Image": "2948.png",
+    "text": "IBM8260",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 823.0395683453237,
+    "y": 397.4532374100719,
+    "id": 327119.740955437,
+    "Image": "2948.png",
+    "text": "办公北楼IBM8271",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 895.656474820144,
+    "y": 398.16007194244605,
+    "id": 356614.6464501062,
+    "Image": "2948.png",
+    "text": "办公南楼IBM8271",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 976.7122302158273,
+    "y": 400.4064748201439,
+    "id": 391081.9010144402,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1046.0593525179856,
+    "y": 399.4064748201439,
+    "id": 417802.8784418509,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1118.9244604316548,
+    "y": 399.9478417266187,
+    "id": 447511.4230047617,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1191.3758992805754,
+    "y": 400.8651079136691,
+    "id": 477581.0284308524,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1268.955035971223,
+    "y": 398.6996402877698,
+    "id": 505931.9163830806,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1342.2410071942447,
+    "y": 402.2410071942446,
+    "id": 539904.3746312304,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1420.6546762589928,
+    "y": 405.158273381295,
+    "id": 575589.9957041561,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1495.6097122302158,
+    "y": 407.6996402877698,
+    "id": 609759.5416871539,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1579.1061151079136,
+    "y": 407.6996402877698,
+    "id": 643800.995105714,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1655.6025179856115,
+    "y": 405.6996402877698,
+    "id": 671677.3460062885,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1733.1726618705034,
+    "y": 620.1672661870504,
+    "id": 1074856.951542363,
+    "Image": "cloud.png",
+    "text": "学生宿舍",
+    "textPosition": "Middle_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1838.134892086331,
+    "y": 416.4064748201439,
+    "id": 765411.2706575748,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 1958.8723021582732,
+    "y": 413.48920863309354,
+    "id": 809972.5580327105,
+    "Image": "2948.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 5
+  },
+  {
+    "elementType": "node",
+    "x": 436.865107913669,
+    "y": 507.8974820143885,
+    "id": 221882.6882892966,
+    "Image": "serv.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 6
+  },
+  {
+    "elementType": "node",
+    "x": 127.8201438848921,
+    "y": 480.6474820143885,
+    "id": 61436.43030899023,
+    "Image": "serv.png",
+    "text": "VH2402",
+    "textPosition": "Bottom_Center",
+    "larm": "undefined",
+    "level": 6
+  },
+  {
+    "elementType": "node",
+    "x": 653.3093525179856,
+    "y": 546.3561151079136,
+    "id": 356939.5598053931,
+    "Image": "2948.png",
+    "text": "有线楼CISCO2948",
+    "textPosition": "Bottom_Center",
+    "larm": "2W",
+    "level": 6
+  },
+  {
+    "elementType": "node",
+    "x": 754.0845323741007,
+    "y": 547.8974820143885,
+    "id": 413161.0165137674,
+    "Image": "2948.png",
+    "text": "图书馆IBM8271",
+    "textPosition": "Bottom_Center",
+    "larm": "2W",
+    "level": 6
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 1299.0714119351996,
+    "nodeZid": 27970.785524817555,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 7145.09267118679,
+    "nodeZid": 27970.785524817555,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 27970.785524817555,
+    "nodeZid": 47137.46988380518,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 47137.46988380518,
+    "nodeZid": 217626.8288520263,
+    "text": "万兆高速链路",
+    "fontColor": "255,0,0"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 47137.46988380518,
+    "nodeZid": 12850.436557401445,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 47137.46988380518,
+    "nodeZid": 75501.41809753634,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 47137.46988380518,
+    "nodeZid": 126355.68253454793,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 47137.46988380518,
+    "nodeZid": 262217.3973785001,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 217626.8288520263,
+    "nodeZid": 317570.69128797686,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 217626.8288520263,
+    "nodeZid": 356977.5566482066,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 217626.8288520263,
+    "nodeZid": 401601.4791548057,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 217626.8288520263,
+    "nodeZid": 440539.3617307593,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 217626.8288520263,
+    "nodeZid": 537470.3511593604,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 217626.8288520263,
+    "nodeZid": 552870.6685471766,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 12850.436557401445,
+    "nodeZid": -1862.9284315211235,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 12850.436557401445,
+    "nodeZid": 40614.80414544058,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 75501.41809753634,
+    "nodeZid": 143839.38137259978,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 148037.51271932092,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 178688.53863348166,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 209364.7723914394,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 238629.94512447607,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 265697.62579576636,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 296670.4747036903,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 327119.740955437,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 126355.68253454793,
+    "nodeZid": 356614.6464501062,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 262217.3973785001,
+    "nodeZid": 391081.9010144402,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 262217.3973785001,
+    "nodeZid": 417802.8784418509,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 317570.69128797686,
+    "nodeZid": 447511.4230047617,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 317570.69128797686,
+    "nodeZid": 477581.0284308524,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 356977.5566482066,
+    "nodeZid": 505931.9163830806,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 356977.5566482066,
+    "nodeZid": 539904.3746312304,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 401601.4791548057,
+    "nodeZid": 575589.9957041561,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 401601.4791548057,
+    "nodeZid": 609759.5416871539,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 440539.3617307593,
+    "nodeZid": 643800.995105714,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 440539.3617307593,
+    "nodeZid": 671677.3460062885,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 537470.3511593604,
+    "nodeZid": 1074856.951542363,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 552870.6685471766,
+    "nodeZid": 765411.2706575748,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 552870.6685471766,
+    "nodeZid": 809972.5580327105,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 148037.51271932092,
+    "nodeZid": 221882.6882892966,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 40614.80414544058,
+    "nodeZid": 61436.43030899023,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 238629.94512447607,
+    "nodeZid": 356939.5598053931,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 296670.4747036903,
+    "nodeZid": 413161.0165137674,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  }
+]
