@@ -1,0 +1,140 @@
+[
+  {
+    "elementType": "container",
+    "type": "A",
+    "serialNumber": "0",
+    "x": 183,
+    "y": 183,
+    "text": "腾讯云",
+    "font": "12px Consolas"
+  },
+  {
+    "serialNum": "0",
+    "relate": "undefined",
+    "type": "undefined",
+    "elementType": "node",
+    "x": 183,
+    "y": 183,
+    "id": 33489,
+    "Image": "undefined",
+    "text": "undefined",
+    "textPosition": "Bottom_Center"
+  },
+  {
+    "serialNum": "0",
+    "relate": "undefined",
+    "type": "undefined",
+    "elementType": "TextNode",
+    "x": 358,
+    "y": 563,
+    "id": 201554,
+    "Image": "undefined",
+    "text": "腾讯云",
+    "textPosition": "Bottom_Center"
+  },
+  {
+    "serialNum": "0",
+    "relate": "0",
+    "type": "D",
+    "elementType": "node",
+    "x": 289,
+    "y": 204,
+    "id": 58956,
+    "Image": "terminal.png",
+    "text": "终端",
+    "textPosition": "Bottom_Center"
+  },
+  {
+    "serialNum": "0",
+    "relate": "1",
+    "type": "D",
+    "elementType": "node",
+    "x": 192,
+    "y": 204,
+    "id": 39168,
+    "Image": "terminal.png",
+    "text": "终端",
+    "textPosition": "Bottom_Center"
+  },
+  {
+    "elementType": "container",
+    "relate": "0",
+    "type": "B",
+    "serialNumber": "11",
+    "x": 662,
+    "y": 188,
+    "text": "机柜"
+  },
+  {
+    "elementType": "container",
+    "relate": "1",
+    "type": "B",
+    "serialNumber": "12",
+    "x": 677,
+    "y": 188,
+    "text": "机柜"
+  },
+  {
+    "serialNum": "11",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip1.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "serialNum": "11",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip2.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "serialNum": "11",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip1.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "serialNum": "11",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip2.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "serialNum": "11",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip1.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "serialNum": "12",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip1.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "serialNum": "12",
+    "type": "C",
+    "elementType": "node",
+    "Image": "equip1.png",
+    "text": "终端",
+    "textPosition": "Middle_Left"
+  },
+  {
+    "elementType": "link",
+    "nodeAid": 58956,
+    "nodeZid": 39168,
+    "text": "",
+    "fontColor": "0, 200, 255"
+  }
+]
