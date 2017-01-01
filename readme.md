@@ -6,7 +6,6 @@
 + 图片节点和连线节点均具有右键菜单，可随时添加连线和设备节点并设置节点的层级
 + 双击节点可修改节点的文字描述
 + 其他
-+ 在线演示地址：- www.billyh.cn/jtopo
-                - www.billyh.cn/jtopo/server-room.html
+- [演示地址](www.billyh.cn/jtopo)
 
 

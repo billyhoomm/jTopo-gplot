@@ -341,7 +341,7 @@
             canvas.width = window.innerWidth;
 
             var scene = new JTopo.Scene();
-            scene.background = './img/bg.webp';
+            scene.background = './img/bg.jpg';
             var stage = new JTopo.Stage(canvas);
             showJTopoToobar(stage);
             var currentNode = null;
@@ -359,7 +359,7 @@
                         data.forEach(function(a){
                    //此处可以加入地域节点
                     if(a.elementType == "node"){
-                        if(a.level <= 5) {
+                        if(a.level <= 6) {
                             AddNode(a.x, a.y, a.text, a.Image, a.textPosition, a.level, a.larm);
                         }
                     }
