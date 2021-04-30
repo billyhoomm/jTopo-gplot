@@ -337,11 +337,11 @@
         $(document).ready(function() {
 
             var canvas = document.getElementById('canvas');
-            canvas.height = window.innerHeight * 0.895;
+            canvas.height = window.innerHeight - 30;
             canvas.width = window.innerWidth;
 
             var scene = new JTopo.Scene();
-            scene.background = './img/bg.png';
+            scene.background = './img/bg.jpeg';
             var stage = new JTopo.Stage(canvas);
             showJTopoToobar(stage);
             var currentNode = null;
